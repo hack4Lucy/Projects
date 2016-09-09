@@ -1,7 +1,7 @@
 
 /* ---------------------------------------------------------	*/
 /* This function is written to solve Euler problem 3 (ID-3)   */
-/* Developer: ask4Lucy (Email: ask4Lucy@gmail.com)            */
+/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)          */
 /* Date: Thur, 08SEP2016                                      */
 /* ---------------------------------------------------------	*/
 
@@ -41,7 +41,7 @@ function isPrime (n) {
   for (var i = 2; i < n; i++) {
 
     remainder = n%i;
-    
+
     if (remainder == 0) {
       count++;
     }

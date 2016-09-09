@@ -1,7 +1,7 @@
 
 /* ---------------------------------------------------------	*/
 /* This function is written to solve Euler problem 1 (ID-1)   */
-/* Developer: ask4Lucy (Email: ask4Lucy@gmail.com)            */
+/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)          */
 /* Date: Saturday, 03SEP2016                                  */
 /* ---------------------------------------------------------	*/
 
@@ -20,7 +20,7 @@ function sumOfMultiples() {
 
 	for (var i = 0; i < max_value; i++) {
 		if ((i%3 == 0) || (i%5 == 0)) {
-			sum += i;
+			sum += i;  // sum = sum + i;
 		}
 	}
 
