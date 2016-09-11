@@ -1,15 +1,15 @@
 
 <!-- ********************************************************  -->
-<!-- This function is written to solve Euler problem 3 (ID-3)  -->
+<!-- This function is written to solve Euler problem 4 (ID-4)  -->
 <!-- Developer: hack4Lucy (Email: hack4Lucy@gmail.com)         -->
-<!-- Date: Thur, 08SEP2016                                     -->
+<!-- Date: Sun, 11SEP2016                                      -->
 <!-- ********************************************************  -->
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Problem 3: Largest prime factor</title>
+	<title>Problem 4: Largest palindrome product</title>
 
 	<!-- Import CSS style "Euler" -->
 	<link rel="stylesheet" href="style_Euler.css" media="screen" title="no title" charset="utf-8">
@@ -19,7 +19,7 @@
 
 	<!-- Title -->
 	<div class="header">
-			<h3>Problem 3: Largest prime factor</h3>
+			<h3>Problem 4: Largest palindrome product</h3>
 	</div>
 	<br>
 
@@ -27,8 +27,8 @@
 	<div class="problem">
 			<p>
 				Description: <br><br>
-				The prime factors of 13195 are 5, 7, 13 and 29. <br><br>
-				What is the largest prime factor of the number 600851475143 ?
+				A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.<br><br>
+        Find the largest palindrome made from the product of two 3-digit numbers.
 			 </p>
 	</div>
 	<br>
@@ -37,8 +37,9 @@
 	<!-- Please provide your input value in the INPUT text box  -->
 	<div class="solution">
 			<form>
-				<label>Input: </label> <input type="text" id="input_value" autofocus="true"> <br><br>
-				<label>Output:</label> <textarea id="output_value" rows="8" cols="40"></textarea>
+				<label>#Digits: </label> <input type="text" id="numOfDigits" autofocus="true"> <br><br>
+				<!-- <label>Output:  </label> <input type="text" id="answer"> -->
+				<label>Output:  </label> <textarea id="answer" rows="8" cols="40"></textarea>
 				<br>
 				<br>
 				<input type="button" value="Solve" id="btnSolve" onclick="main()">
@@ -48,7 +49,7 @@
 </div> <!-- END CONTAINER -->
 
 <!-- Import JS script -->
-<script src="logic_EulerID-3.js"></script>
+<script src="logic_EulerID-4.js"></script>
 
 </body>
 </html>
