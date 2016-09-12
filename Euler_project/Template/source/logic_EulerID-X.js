@@ -1,9 +1,9 @@
 
-/* ---------------------------------------------------------	*/
-/* This function is written to solve Euler problem X (ID-X)   */
-/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)          */
-/* Date: XXX                                                  */
-/* ---------------------------------------------------------	*/
+/* ------------------------------------------------------------	*/
+/* This program was developed to solve Euler problem X (ID-X)   */
+/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)            */
+/* Date: XXX                                                    */
+/* -----------------------------------------------------------	*/
 
 // The main function
 function main () {

@@ -1,9 +1,9 @@
 
-/* ---------------------------------------------------------	*/
-/* This function is written to solve Euler problem 1 (ID-1)   */
-/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)          */
-/* Date: Saturday, 03SEP2016                                  */
-/* ---------------------------------------------------------	*/
+/* ------------------------------------------------------------	*/
+/* This program was developed to solve Euler problem 1 (ID-1)   */
+/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)            */
+/* Date: Saturday, 03SEP2016                                    */
+/* -----------------------------------------------------------	*/
 
 // Get access to input/output area
 var box_input  =document.getElementById('max_value');
