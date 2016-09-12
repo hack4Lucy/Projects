@@ -1,9 +1,9 @@
 
-/* ---------------------------------------------------------	*/
-/* This function is written to solve Euler problem 3 (ID-3)   */
-/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)          */
-/* Date: Thur, 08SEP2016                                      */
-/* ---------------------------------------------------------	*/
+/* ------------------------------------------------------------	*/
+/* This program was developed to solve Euler problem 3 (ID-3)   */
+/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)            */
+/* Date: Thur, 08SEP2016                                        */
+/* -----------------------------------------------------------	*/
 
 /* Reference: http://www.mathsisfun.com/prime-factorization.html */
 /* A prime number can only be divided by 1 or itself, so it cannot be factored any further! */
