@@ -1,9 +1,9 @@
 
-/* ---------------------------------------------------------	*/
-/* This function is written to solve Euler problem 4 (ID-4)   */
-/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)          */
-/* Date: Sun, 11SEP2016                                       */
-/* ---------------------------------------------------------	*/
+/* ------------------------------------------------------------	*/
+/* This program was developed to solve Euler problem 4 (ID-4)   */
+/* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)            */
+/* Date: Sun, 11SEP2016                                         */
+/* -----------------------------------------------------------	*/
 
 // The main function
 function main () {
