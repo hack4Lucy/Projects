@@ -8,7 +8,7 @@
 // The main function
 function main () {
 
-  // Get user input value
+  // Get input value from the user
   var box_input  = document.getElementById('xxx');
   var number     = box_input.value;
 
@@ -16,8 +16,9 @@ function main () {
   var box_output = document.getElementById('xxx');
   var result     = '';
 
-  // Insert other functions...
+  // Call the function to ...
 
+  // Return the value to the user
   box_output.value = result;
   box_input.value  = '';
 
