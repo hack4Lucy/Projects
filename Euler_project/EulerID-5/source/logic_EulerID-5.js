@@ -38,8 +38,8 @@ function getSPN (limit) {
   }
   else {    // Perform the task, if LIMIT <= 15
 
-    // Initialize variables
-    var count = 0;
+    // Initialize (intermediate) variables
+    var count = 1;
     var remainder = 0;
 
     do {
