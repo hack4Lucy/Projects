@@ -2,7 +2,7 @@
 /* ------------------------------------------------------------	*/
 /* This program was developed to solve Euler problem 4 (ID-4)   */
 /* Developer: hack4Lucy (Email: hack4Lucy@gmail.com)            */
-/* Date: Sun, 11SEP2016                                         */
+/* Date: Fri, 16SEP2016                                         */
 /* -----------------------------------------------------------	*/
 
 // The main function
@@ -109,7 +109,7 @@ function getLP (m) {
 
   // Get the largest palindrom
   if (palind_array.length > 0) {    // checks if there is any palindrom value
-    alert("The largest palindrom is " + palind_array[count-1]);
+    alert("The largest palindrom is " + Math.max.apply(null, palind_array));    // Take the maximum palindrom from the list
   }
 
   return palind_values;
