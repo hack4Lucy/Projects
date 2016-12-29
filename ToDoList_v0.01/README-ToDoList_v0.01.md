@@ -70,7 +70,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **hack4Lucy** - *Initial work* - [PurpleBooth](https://github.com/hack4Lucy/Projects/ToDoList_v0.01)
+* **hack4Lucy** - *Initial work* - [ToDoList_v0.01](https://github.com/hack4Lucy/Projects/ToDoList_v0.01)
 
 ## License
 
